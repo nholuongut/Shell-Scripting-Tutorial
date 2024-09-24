@@ -2,7 +2,7 @@
 
 Keep in touch with for any kind of technical questions 
 
-[Shell Scripting for Amazon Web Services to Manage it's resources](https://github.com/nholuongut/Shell-Scripting-Tutorial/tree/FOTV/AWS)
+[Shell Scripting for Amazon Web Services to Manage it's resources](https://github.com/nholuongut/Shell-Scripting-Tutorial/blob/main/AWS/s3bucketsize.sh)
 
 [Contact an Author]
 * [Skype](luongutnho_skype)
