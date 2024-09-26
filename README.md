@@ -4,11 +4,14 @@ Keep in touch with for any kind of technical questions
 
 [Shell Scripting for Amazon Web Services to Manage it's resources](https://github.com/nholuongut/Shell-Scripting-Tutorial/blob/main/AWS/s3bucketsize.sh)
 
-[Contact an Author]
+### [Contact an Author]
+* [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
 
