@@ -4,14 +4,13 @@ Keep in touch with for any kind of technical questions
 
 [Shell Scripting for Amazon Web Services to Manage it's resources](https://github.com/nholuongut/Shell-Scripting-Tutorial/blob/main/AWS/s3bucketsize.sh)
 
-### [Contact an Author]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+![](https://i.imgur.com/waxVImv.png)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
 
 A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
 
@@ -106,3 +105,18 @@ After that start learning shell scripting using below topics
 - **Problem Statement:** I was trying to use ```find /path/ -type d -mtime +2 -print0 | xargs -r0 rm --```. This command does not work as expected due to directory modified date for SAT, SUN and MON moved directories same for all as Monday date.
 
 - **How Do you solve it.??** Write Shell Script to accomplish this task. Should run through crontab and clear directories older than two days.
+
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
+
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
